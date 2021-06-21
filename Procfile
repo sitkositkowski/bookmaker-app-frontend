@@ -1,0 +1,1 @@
+web: java -jar build/libs/bookmaker-app-frontend-0.0.1-SNAPSHOT.jar
