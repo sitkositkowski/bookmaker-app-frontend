@@ -3,47 +3,22 @@ BOOKMAKER APP
 
 #### Frontend of Bookmaker App - a game for friends to predict the results of matches for football competitions. There is [backend](https://github.com/sitkositkowski/bookmaker-app).
 
-#### Deployed version of application on Heroku:
-[Backend](https://bookmaker-app-backend.herokuapp.com/) \
-[Frontend](https://bookmaker-app.herokuapp.com/)
+## General description
 
-Table of Contents
----
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Endpoints](#endpoints)
+description
 
-General info
----
-The Redudo is made for managing your books. After sign in via Google you can search for them in the database
-(if there is not the book, app use [Google Books Api](https://developers.google.com/books "Google Books Api")).\
-Then you can add the book to one of three lists:
-* books to read (to **RE**ad)
-* books already reading (**DU**ring)
-* done books (**DO**ne)
+## Deployed version of application on Heroku
+### *Frontend:* [Live demo](https://bookmaker-app.herokuapp.com/) | [Git](https://github.com/sitkositkowski/bookmaker-app-frontend)
+![obraz](https://user-images.githubusercontent.com/74245529/122913790-2e2ab400-d35a-11eb-9ffa-f9dce685ec6f.png)
 
-Technologies
----
-Project is created with:
-* Java (version 11)
-* Spring
-* Hibernate
-* RestApi
-
-Setup
----
-To run project you have to set environment variables:
-* variables necessary to send automatic emails
-    * MAIL_USERNAME
-    * MAIL_PASSWORD
-
-* variable necessary for OAuth2 authorization
-    * CLIENT_ID (same as for the backend app)
-
-To get it you have to create app in [Google Developer Console](https://console.cloud.google.com/apis/credentials)
+### *Backend:* [Live demo](https://bookmaker-app-backend.herokuapp.com/) | [Git](https://github.com/sitkositkowski/bookmaker-app)
+![obraz](https://user-images.githubusercontent.com/74245529/122914094-92e60e80-d35a-11eb-8259-0f213d68e8e7.png)
 
 
-Endpoints
----
-###### Endpoint's API documentation is available at [Swaager](https://bookmaker-app-backend.herokuapp.com/swagger-ui.html).
+### *API's Endpoints documentation:* [Swagger](https://bookmaker-app-backend.herokuapp.com/swagger-ui.html)
+![obraz](https://user-images.githubusercontent.com/74245529/122913616-f3288080-d359-11eb-97df-c081b6fd4d3c.png)
+
+## Login credentials
+![obraz](https://user-images.githubusercontent.com/74245529/122913967-6b8f4180-d35a-11eb-82fb-777c118c659d.png)
+
+
