@@ -3,6 +3,7 @@ BOOKMAKER APP
 
 #### Frontend of Bookmaker App - a game for friends to predict the results of matches for football competitions. There is [backend](https://github.com/sitkositkowski/bookmaker-app).
 
+<<<<<<< HEAD
 ## General description
 
 description
@@ -22,3 +23,8 @@ description
 ![obraz](https://user-images.githubusercontent.com/74245529/122913967-6b8f4180-d35a-11eb-82fb-777c118c659d.png)
 
 
+=======
+#### Deployed version of application on Heroku:
+[Backend](https://bookmaker-app-backend.herokuapp.com/) \
+[Frontend](https://bookmaker-app.herokuapp.com/)
+>>>>>>> 96bfa6f33138a651b215259576e99164c972099c
